@@ -24,7 +24,7 @@ html, body {
 }
 
 header {
-    background-color: #193a07;
+    background-color: #122c05;
     color: white;
     text-align: center;
     font-size: 1em;
@@ -103,8 +103,10 @@ section#img01 {
 }
 
     footer {
-        background-color: black;
+        background-color: #122c05;
+        color: white;
         color: white;   
         text-align: center;
         padding: 10px;
+        
     }
